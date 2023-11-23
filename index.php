@@ -8,5 +8,9 @@
 <body>
     <h1>Hello Bitchies</h1>
     <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quo quis ipsam laboriosam molestias corporis dicta animi maiores, cupiditate vel rerum tempora eum amet libero repudiandae reprehenderit explicabo doloremque deserunt autem.</p>
+    <ul>
+        <li>Satu</li>
+        <li>Dua</li>
+    </ul>
 </body>
 </html>
